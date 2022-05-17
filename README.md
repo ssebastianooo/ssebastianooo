@@ -1,7 +1,7 @@
 ﻿  # $ cat home/seba/whoami.json
       
     {
-    	    "name": "Sebastiano",
+    	      "name": "Sebastiano",
     		"gender": "male",
     		"date_of_birth": "6th of June",
     		"nationality": "italian"
@@ -14,7 +14,7 @@
     		    "email": "ssebastianooo@protonmail.com",
     		    "telegram": "@drippo",
     		    "discord": "seba#8246"
-    		}
+    	    }
     }
 
 # $ cat home/seba/pc_build.json
@@ -29,5 +29,5 @@
     		    "ssd": "Western Digital SN550, 500GB",
     		    "hdd": "Seagate Barracuda, 1TB"
     		}
-    		"psu": "Corsair CX650M"
+    	    "psu": "Corsair CX650M"
     }
