@@ -5,7 +5,7 @@
     		"gender": "male",
     		"date_of_birth": "6th of June",
     		"nationality": "italian"
-    	}
+    }
 
    # $ cat home/seba/contacts.json
        
@@ -15,7 +15,7 @@
     		    "telegram": "@drippo",
     		    "discord": "seba#8246"
     		}
-    	}
+    }
 
 # $ cat home/seba/pc_build.json
 
@@ -30,4 +30,4 @@
     		    "hdd": "Seagate Barracuda, 1TB"
     		}
     		"psu": "Corsair CX650M"
-    	}
+    }
