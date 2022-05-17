@@ -1,7 +1,7 @@
 ﻿  # $ cat home/seba/whoami.json
       
     {
-    	      "name": "Sebastiano",
+    	        "name": "Sebastiano",
     		"gender": "male",
     		"date_of_birth": "6th of June",
     		"nationality": "italian"
